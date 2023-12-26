@@ -1,0 +1,47 @@
+.red {
+    background-color: indianred;
+    width: 200px;
+    height: 200px;
+    border: 1px dotted blue;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    display: flex;
+}
+.purple {
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    border: 1px dotted blue;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-2 {
+    display: flex;
+}
+.red-2 {
+    background-color: indianred;
+    width: 200px;
+    height: 200px;
+    border: 1px dotted blue;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.purple-2 {
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    border: 1px dotted blue;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
